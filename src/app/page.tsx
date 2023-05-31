@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem excepturi nam quasi! Atque cum dignissimos distinctio ea eos harum iusto laboriosam nesciunt nulla quidem quod quos rem sequi, sint vel!
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
         <div>
